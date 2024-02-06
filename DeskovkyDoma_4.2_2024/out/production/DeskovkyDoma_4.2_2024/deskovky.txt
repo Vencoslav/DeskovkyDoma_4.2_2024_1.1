@@ -1,0 +1,3 @@
+Carcassonne;false;1;
+Catan;true;2;
+Dostihy a sázky;true;3;
